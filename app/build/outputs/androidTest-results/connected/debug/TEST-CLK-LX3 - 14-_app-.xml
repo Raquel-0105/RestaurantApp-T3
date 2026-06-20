@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuites tests="5" failures="0" errors="0" skipped="0" time="14.537" timestamp="2026-06-20T05:13:03" hostname="localhost">
+  <testsuite name="com.example.testeableapp.RestaurantOrderTest" tests="5" failures="0" errors="0" skipped="0" time="12.328" timestamp="2026-06-20T05:13:03" hostname="localhost">
+    <properties>
+      <property name="device" value="CLK-LX3 - 14" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name="botonRealizarPedido_apareceAlAgregarUnItem" classname="com.example.testeableapp.RestaurantOrderTest" time="3.875" />
+    <testcase name="todosLosItemsDelMenu_sonVisibles" classname="com.example.testeableapp.RestaurantOrderTest" time="1.84" />
+    <testcase name="totalGeneral_seActualizaAlAgregarItems" classname="com.example.testeableapp.RestaurantOrderTest" time="2.792" />
+    <testcase name="mensajePedidoVacio_esVisibleAlInicio" classname="com.example.testeableapp.RestaurantOrderTest" time="2.0" />
+    <testcase name="tituloDeLaApp_esVisible" classname="com.example.testeableapp.RestaurantOrderTest" time="1.821" />
+  </testsuite>
+</testsuites>

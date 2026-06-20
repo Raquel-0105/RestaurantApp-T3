@@ -1,0 +1,7 @@
+com.example.testeableapp-pngs-0 C:\Users\Johana Menjivar\Desktop\RestaurantApp-T3\app\build\generated\res\pngs\debug
+com.example.testeableapp-updated_navigation_xml-1 C:\Users\Johana Menjivar\Desktop\RestaurantApp-T3\app\build\generated\updated_navigation_xml\debug
+com.example.testeableapp-packageDebugResources-2 C:\Users\Johana Menjivar\Desktop\RestaurantApp-T3\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.testeableapp-packageDebugResources-3 C:\Users\Johana Menjivar\Desktop\RestaurantApp-T3\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.testeableapp-debug-4 C:\Users\Johana Menjivar\Desktop\RestaurantApp-T3\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.testeableapp-debug-5 C:\Users\Johana Menjivar\Desktop\RestaurantApp-T3\app\src\debug\res
+com.example.testeableapp-main-6 C:\Users\Johana Menjivar\Desktop\RestaurantApp-T3\app\src\main\res

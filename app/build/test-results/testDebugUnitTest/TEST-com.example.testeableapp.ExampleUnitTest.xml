@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.testeableapp.ExampleUnitTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-06-20T01:38:03.426Z" hostname="JOHAMENJVAR" time="0.03">
+  <properties/>
+  <testcase name="decrementarDesde1_eliminaElItem" classname="com.example.testeableapp.ExampleUnitTest" time="0.002"/>
+  <testcase name="agregarMismoItemVariasVeces_acumulaCantidadSinDuplicados" classname="com.example.testeableapp.ExampleUnitTest" time="0.001"/>
+  <testcase name="agregarItemAlPedido_incrementaCantidad" classname="com.example.testeableapp.ExampleUnitTest" time="0.0"/>
+  <testcase name="calcularTotal_formulaEsCorrecta" classname="com.example.testeableapp.ExampleUnitTest" time="0.02"/>
+  <testcase name="menuData_contieneExactamenteDiezItems" classname="com.example.testeableapp.ExampleUnitTest" time="0.001"/>
+  <testcase name="incrementarYDecrementar_funcionaCorrectamente" classname="com.example.testeableapp.ExampleUnitTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

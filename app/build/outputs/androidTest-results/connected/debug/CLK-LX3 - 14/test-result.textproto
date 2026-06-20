@@ -1,0 +1,301 @@
+# proto-message: google.testing.platform.proto.api.core.TestSuiteResult
+# 2026-06-20T05:13:03.347658800Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 5
+  device {
+    id: "AM4U9X3C20G07467"
+    friendly_name: "primary"
+  }
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "RestaurantOrderTest"
+    test_package: "com.example.testeableapp"
+    test_method: "botonRealizarPedido_apareceAlAgregarUnItem"
+    start_time {
+      seconds: 1781932368
+      nanos: 678000000
+    }
+    end_time {
+      seconds: 1781932372
+      nanos: 618000000
+    }
+    device {
+      id: "AM4U9X3C20G07467"
+      friendly_name: "primary"
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Johana Menjivar\\Desktop\\RestaurantApp-T3\\app\\build\\outputs\\androidTest-results\\connected\\debug\\CLK-LX3 - 14\\logcat-com.example.testeableapp.RestaurantOrderTest-botonRealizarPedido_apareceAlAgregarUnItem.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Johana Menjivar\\Desktop\\RestaurantApp-T3\\app\\build\\outputs\\androidTest-results\\connected\\debug\\CLK-LX3 - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Johana Menjivar\\Desktop\\RestaurantApp-T3\\app\\build\\outputs\\androidTest-results\\connected\\debug\\CLK-LX3 - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Johana Menjivar\\Desktop\\RestaurantApp-T3\\app\\build\\outputs\\androidTest-results\\connected\\debug\\CLK-LX3 - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "RestaurantOrderTest"
+    test_package: "com.example.testeableapp"
+    test_method: "todosLosItemsDelMenu_sonVisibles"
+    start_time {
+      seconds: 1781932372
+      nanos: 669000000
+    }
+    end_time {
+      seconds: 1781932374
+      nanos: 510000000
+    }
+    device {
+      id: "AM4U9X3C20G07467"
+      friendly_name: "primary"
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Johana Menjivar\\Desktop\\RestaurantApp-T3\\app\\build\\outputs\\androidTest-results\\connected\\debug\\CLK-LX3 - 14\\logcat-com.example.testeableapp.RestaurantOrderTest-todosLosItemsDelMenu_sonVisibles.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Johana Menjivar\\Desktop\\RestaurantApp-T3\\app\\build\\outputs\\androidTest-results\\connected\\debug\\CLK-LX3 - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Johana Menjivar\\Desktop\\RestaurantApp-T3\\app\\build\\outputs\\androidTest-results\\connected\\debug\\CLK-LX3 - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Johana Menjivar\\Desktop\\RestaurantApp-T3\\app\\build\\outputs\\androidTest-results\\connected\\debug\\CLK-LX3 - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "RestaurantOrderTest"
+    test_package: "com.example.testeableapp"
+    test_method: "totalGeneral_seActualizaAlAgregarItems"
+    start_time {
+      seconds: 1781932374
+      nanos: 517000000
+    }
+    end_time {
+      seconds: 1781932377
+      nanos: 255000000
+    }
+    device {
+      id: "AM4U9X3C20G07467"
+      friendly_name: "primary"
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Johana Menjivar\\Desktop\\RestaurantApp-T3\\app\\build\\outputs\\androidTest-results\\connected\\debug\\CLK-LX3 - 14\\logcat-com.example.testeableapp.RestaurantOrderTest-totalGeneral_seActualizaAlAgregarItems.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Johana Menjivar\\Desktop\\RestaurantApp-T3\\app\\build\\outputs\\androidTest-results\\connected\\debug\\CLK-LX3 - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Johana Menjivar\\Desktop\\RestaurantApp-T3\\app\\build\\outputs\\androidTest-results\\connected\\debug\\CLK-LX3 - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Johana Menjivar\\Desktop\\RestaurantApp-T3\\app\\build\\outputs\\androidTest-results\\connected\\debug\\CLK-LX3 - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "RestaurantOrderTest"
+    test_package: "com.example.testeableapp"
+    test_method: "mensajePedidoVacio_esVisibleAlInicio"
+    start_time {
+      seconds: 1781932377
+      nanos: 342000000
+    }
+    end_time {
+      seconds: 1781932379
+      nanos: 346000000
+    }
+    device {
+      id: "AM4U9X3C20G07467"
+      friendly_name: "primary"
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Johana Menjivar\\Desktop\\RestaurantApp-T3\\app\\build\\outputs\\androidTest-results\\connected\\debug\\CLK-LX3 - 14\\logcat-com.example.testeableapp.RestaurantOrderTest-mensajePedidoVacio_esVisibleAlInicio.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Johana Menjivar\\Desktop\\RestaurantApp-T3\\app\\build\\outputs\\androidTest-results\\connected\\debug\\CLK-LX3 - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Johana Menjivar\\Desktop\\RestaurantApp-T3\\app\\build\\outputs\\androidTest-results\\connected\\debug\\CLK-LX3 - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Johana Menjivar\\Desktop\\RestaurantApp-T3\\app\\build\\outputs\\androidTest-results\\connected\\debug\\CLK-LX3 - 14\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "RestaurantOrderTest"
+    test_package: "com.example.testeableapp"
+    test_method: "tituloDeLaApp_esVisible"
+    start_time {
+      seconds: 1781932379
+      nanos: 351000000
+    }
+    end_time {
+      seconds: 1781932381
+      nanos: 171000000
+    }
+    device {
+      id: "AM4U9X3C20G07467"
+      friendly_name: "primary"
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Johana Menjivar\\Desktop\\RestaurantApp-T3\\app\\build\\outputs\\androidTest-results\\connected\\debug\\CLK-LX3 - 14\\logcat-com.example.testeableapp.RestaurantOrderTest-tituloDeLaApp_esVisible.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Johana Menjivar\\Desktop\\RestaurantApp-T3\\app\\build\\outputs\\androidTest-results\\connected\\debug\\CLK-LX3 - 14\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Johana Menjivar\\Desktop\\RestaurantApp-T3\\app\\build\\outputs\\androidTest-results\\connected\\debug\\CLK-LX3 - 14\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Johana Menjivar\\Desktop\\RestaurantApp-T3\\app\\build\\outputs\\androidTest-results\\connected\\debug\\CLK-LX3 - 14\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\Johana Menjivar\\Desktop\\RestaurantApp-T3\\app\\build\\outputs\\androidTest-results\\connected\\debug\\CLK-LX3 - 14\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}
